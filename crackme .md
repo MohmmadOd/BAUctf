@@ -8,4 +8,5 @@ hash.txt : file name
 when run it I got the password the put it 
 ![coreq1](https://github.com/MohmmadOd/BAUctf/assets/170467994/159c5e55-dede-4f4d-98ff-a05bba84ac15)
 
-
+![flag1](https://github.com/MohmmadOd/BAUctf/assets/170467994/a8373358-2664-47a2-9ff5-afaec5c98773)
+now you can see flag 
