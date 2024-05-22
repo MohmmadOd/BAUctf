@@ -9,4 +9,5 @@ The tools were installed without errors . then  , I used olevba  [path docm file
  Here I used the I used Python code to decrypt the algorithm
  ![code](https://github.com/MohmmadOd/BAUctf/assets/170467994/1ad67c5c-671f-4767-8da1-509a40eddee7)
 Run the python code and I found the flag 
+![run](https://github.com/MohmmadOd/BAUctf/assets/170467994/68d48061-44dc-4999-95bb-e575b47bc6e7)
 
