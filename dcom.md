@@ -7,4 +7,6 @@ The tools were installed without errors . then  , I used olevba  [path docm file
  then , I thought mabey have a hidden text to see it clicked on file  option Display  hidden text.
  ![Q2cyphertext](https://github.com/MohmmadOd/BAUctf/assets/170467994/c1a3016b-bf0e-40c3-aa4b-5d785907447b)
  Here I used the I used Python code to decrypt the algorithm
+ ![code](https://github.com/MohmmadOd/BAUctf/assets/170467994/1ad67c5c-671f-4767-8da1-509a40eddee7)
+Run the python code and I found the flag 
 
