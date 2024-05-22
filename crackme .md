@@ -6,6 +6,5 @@ This was easy and straight forward challenge , so first thing I made sure this f
 john --wordlist=/usr/share/wordlists/rockyou.txt : This specifies the wordlist to be used for the password cracking attempt. The RockYou wordlist is a common list of passwords that were leaked from the RockYou.com website and is often used in password cracking due to its extensive collection of real-world passwords, 
 hash.txt : file name 
 when run it I got the password the put it 
-![coreq1](https://github.com/MohmmadOd/BAUctf/assets/170467994/b05b88e4-6ba6-49ea-95e5-215de90f193c
 
 
